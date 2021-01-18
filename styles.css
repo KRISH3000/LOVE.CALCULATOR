@@ -1,0 +1,65 @@
+body{
+  background-image: url(https://lh3.googleusercontent.com/proxy/4CFHX1wtDPJ5Bq404rEEcaZtkzWPfqfBp6Ygm9B__0v1qHRvAM5G9UT8KyameSmtaEUKKXAJIen3rareezyyY8BOmunE2eRhSBVxNFUuKsel_JMdDmGipUhcePpuMqG-XA);
+
+  font-family: sans-serif;
+  display: grid;
+  height: 100vh;
+  place-items: center;
+}
+
+h1{text-align: center;
+   color: #5CEBC3;}
+
+H2{
+  text-align: center;
+  color: #126796;
+}
+
+.LUB{
+text-align: center;
+}
+
+.button{
+border: none;
+ color: white;
+ padding: 16px 32px;
+ text-align: center;
+ text-decoration: none;
+ display: inline-block;
+ font-size: 16px;
+ margin: 4px 2px;
+ transition-duration: 0.4s;
+ cursor: pointer;
+}
+
+.button1 {
+ background-color: #46F2E4;
+ color: black;
+ border: 1px solid #4CAF50;
+}
+
+.button1:hover {
+ background-color: #4CAF50;
+ color: white;
+}
+
+.button {
+ background-color: #46F2E4;
+ color: black;
+ border: 2px solid #4CAF50;
+}
+
+.button:hover {
+ background-color: #4CAF50;
+ color: white;
+}
+
+#demo1{
+  color: #5CEBC3;
+}
+
+   #footer{text-align: center;
+          padding: 3% 0;}
+
+   .social{margin: 20px 10px;
+         color: #dc3545;}
